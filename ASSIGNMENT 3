@@ -1,0 +1,10 @@
+//    	System.out.println("Enter list1: ");
+//    	int[][] list1 = new int[3][3];
+//    	loadMatrix(list1);
+//    	
+//    	System.out.println("Enter list2: ");
+//    	int[][] list2 = new int[3][3];
+//    	loadMatrix(list2);
+//    	
+//    	System.out.println("The two arrays are " + 
+//    			(identical(list1, list2) ? "" : "not ") + "identical");
